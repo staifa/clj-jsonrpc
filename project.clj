@@ -1,6 +1,6 @@
-(defproject clj-jsonrpc "0.1.2-dev"
+(defproject clj-jsonrpc "0.1.3-dev"
   :description "A JSON-RPC 2.0 library for Clojure"
-  :url "https://github.com/zoowii/clj-jsonrpc"
+  :url "https://github.com/staifa/clj-jsonrpc"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.10.1"]
